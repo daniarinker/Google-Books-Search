@@ -26,10 +26,14 @@ This project is a React-based Google Books Search app. The React components were
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\ Search form that works with the Google Books API and renders results to the page
-:heavy_check_mark: Feature 2;\ A 'View' button that will take you to the Google site to purchase the book.
-:heavy_check_mark: Feature 3;\ A 'Save' ability that will render the book to the database.
-:heavy_check_mark: Feature 4;\ A 'Delete' option to remove the book from the Mongo database that the book was previously saved to.
+:heavy_check_mark: Feature 1;\
+ Search form that works with the Google Books API and renders results to the page
+:heavy_check_mark: Feature 2;\ 
+A 'View' button that will take you to the Google site to purchase the book.
+:heavy_check_mark: Feature 3;\ 
+A 'Save' ability that will render the book to the database.
+:heavy_check_mark: Feature 4;\ 
+A 'Delete' option to remove the book from the Mongo database that the book was previously saved to.
 
 ## :rocket: Technologies
 
